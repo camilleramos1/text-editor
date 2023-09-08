@@ -21,6 +21,7 @@ To install this application, you can either clone this repository into your term
 
 ### Link to Deployed Site
 https://serene-sea-17695-cca51c95e088.herokuapp.com/
+<img width="1277" alt="image" src="https://github.com/camilleramos1/text-editor/assets/129894673/a0993240-f3f3-4559-9d2a-a3fbc811857d">
 
 
 ## Usage
