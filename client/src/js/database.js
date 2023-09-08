@@ -45,7 +45,6 @@ export const getDb = async () => {
 
   console.log('Data retrieved successfully', result);
 
-  console.log(result)
   return result?.value;
 };
 

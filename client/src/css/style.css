@@ -8,9 +8,9 @@
   --navbar-height: 50px;
 }
 
-/* [hidden] {
+.hidden {
   display: none;
-} */
+}
 
 body {
   margin: 0;
