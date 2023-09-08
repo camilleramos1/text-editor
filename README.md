@@ -10,7 +10,11 @@
 * [Questions](#questions)
 
 ## Description
-Using starter code, I created a text editor PWA. This application is installable, optimized, and uses service workers in order to work offline.  Some of the main technologies used are: IndexedDb, Webpack, Concurrently, Babel
+Using starter code, I created a text editor PWA. This application is installable, optimized, and uses service workers in order to work offline.  Some of the main technologies used are: 
+* IndexedDb
+* Webpack
+* Concurrently 
+* Babel
 
 ## Installation
 To install this application, you can either clone this repository into your terminal or use the link below to navigate to the deployed application. Here you will have the oppurtunity to install the app on your local device. 
