@@ -13,15 +13,14 @@
 Using starter code, I created a text editor PWA. This application is installable, optimized, and uses service workers in order to work offline.  Some of the main technologies used are: IndexedDb, Webpack, Concurrently, Babel
 
 ## Installation
-To install this application, you can either clone this repository into your terminal. Instead, you can simply use the link below to navigate to the deployed application. Here you will have the oppurtunity to install the app on your local device. 
+To install this application, you can either clone this repository into your terminal or use the link below to navigate to the deployed application. Here you will have the oppurtunity to install the app on your local device. 
 
 ### Link to Deployed Site
 https://serene-sea-17695-cca51c95e088.herokuapp.com/
 
 
 ## Usage
-If you have cloned the repository, you will next need to use 'npm i' in order to install all dependencies. Then, use 'npm run start' to start the server at localhost:3000. If you are using the link to the deployed application, simply open it and start typing, 
-OR 
+If you have cloned the repository, you will next need to use 'npm i' in order to install all dependencies. Then, use 'npm run start' to start the server at localhost:3000. If you are using the link to the deployed application, simply open it and start typing, or
 you may install the application using the 'install' button in the top left of the screen. You may also choose to use the application online or offline. 
 
 ## License
